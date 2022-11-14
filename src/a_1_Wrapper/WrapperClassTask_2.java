@@ -1,4 +1,4 @@
-package Wrapper;
+package a_1_Wrapper;
 
 public class WrapperClassTask_2 {
     public static void main(String[] args) {
