@@ -1,4 +1,4 @@
-package a_7_Inheritance;
+package a_7_8_9_Inheritance;
 
 public class Challenge extends GameActivity {
 
